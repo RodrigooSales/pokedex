@@ -1,7 +1,7 @@
 /*
 
 Quando clicar no pokemon da listagem temos que esconder o cartão aberto e mostrar o cartão correspondente ao que foi selecionado
-
+teste de pipeline
 para isso vamos precisar trabalhar com dois elementos
 1-listagem
 2- cartão pokémon
